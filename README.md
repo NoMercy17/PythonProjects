@@ -1,12 +1,12 @@
 # PythonProjects
 
-   Blackjack project
+   BLACKJACK PROJECT
 An implementation of the blackjack game, where the user is playing against the dealer(robot) 
 
-   Bike project
+   BIKE PROJECT
 This project simulates a bike-sharing system using SimPy for event-driven modeling, handling bike trips, failures, repairs, and rebalancing.
 It demonstrates probability-based demand and time-slot patterns, showcasing skills in Python and system simulation.
 
 
-   Pdf processing
+   PDF PROCESSING
 This Python project uses PyPDF2 to automate adding a cover page to multiple PDFs in a directory, showcasing skills in file handling, directory management, and PDF manipulation for document processing.
